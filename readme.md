@@ -1,0 +1,1 @@
+This repository contains the comparison of different optimization methods to minimize/maximize functiones
